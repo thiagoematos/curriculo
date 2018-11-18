@@ -16,27 +16,31 @@ Fundação Desembargador Paulo Feitosa
 
   Atribuições Acumuladas
   > Desenvolvimento de Sistemas Web, Mobile e Desktop
-  > Revisão do código do time
-  > Fazer a mentoria dos programadores Júnior do time
+  > Revisão de código do time
+  > Mentoria dos programadores Júnior do time
   > Configuração do ambiente de deploy da aplicação para Testes e Produção
   > Recrutamento (Entrevista e elaboração/correção dos desafios)
   > Estimativa do tempo de desenvolvimento de novos projetos
   > Planejamento das atividades do ciclo de desenvolvimento
+  > Líder do Grupo de Coding Dojo
+  > Instrutor de Java na FPF Tech Academy (http://academy.fpftech.com/treinamentos/)
 
   Histórico de Tecnologias Trabalhadas
     2018/2017                   2016                     2016
-  > Java 8                    > C#                     > Python
-  > ECMAScript 2017           > VB.NET                 > Flask
-  > Spring Boot               > VBA - Macro Excel      > PyCharm
-  > AngularJS                 > NancyFX                
-  > Docker                    > NHibernate               2015
-  > OpenStack                 > Visual Studio          > PHP
-  > Gitlab CI                 > NuGet                  > Laravel
-  > Keycloak                  > IIS                    > Angular 2
-  > Visual Code               > SQL Server             > Typescript
-  > Programação Funcional                              > MySQL
-  > Padrão API Restful                                 > WebStorm/PhpStorm
-  
+  > VueJS/Quasar Framework    > C#                     > Python
+  > Java 8                    > VB.NET                 > Flask
+  > ECMAScript 2015           > VBA - Macro Excel      > PyCharm
+  > Spring Boot               > NancyFX                
+  > AngularJS                 > NHibernate               2015
+  > Docker                    > Visual Studio          > PHP
+  > Ansible                   > NuGet                  > Laravel
+  > OpenStack/OpenNebula      > IIS                    > Angular 2
+  > Gitlab CI                 > SQL Server             > Typescript
+  > Keycloak                                           > MySQL
+  > Visual Code                                        > WebStorm/PhpStorm
+  > Programação Funcional
+  > Padrão de API Restful
+
     2015                        2014/2013                2009-2012
   > Spring Boot               > Android                > Java - Certificação Sun
   > AngularJS                 > Maven                  > HTML/Javascript/CSS
@@ -51,6 +55,26 @@ Fundação Desembargador Paulo Feitosa
   > Intellij IDEA                                      > Birt
   > Clean Code                                         > Eclipse
                                                        > Scrum
+________________________________________________________________________________
+PALESTRAS
+
+> 2018 (agosto) FPF Tech
+  Tema: "Conhecendo a Trindade: Filter, Map e Reduce"
+  Coding Dojo estilo Kata. Um código javascript cheio de loops é refatorado usando filter, map e reduce.
+  Durante a talk vários conceitos são explicados na prática. As perguntas dos participantes foram feitas durante a apresentação.
+  Gravação da live: https://goo.gl/EgYBg5
+
+> 2018 (julho) BrazilJS On The Road - Edição Manaus
+  Tema: "Mas eu só queria commitar!"
+  Formato de talk, somente explicação.
+  Após contar um pouco da minha história, eu expliquei sobre o motivo e o que aprendemos do git ser recheado de comandos para fazer coisas que aparemente são simples, como comitar.
+  Twitter da palestra: https://goo.gl/QNXgWu
+
+> 2018 (Março) FPF Tech
+  Tema: "Java 8 - Eu escolho você"
+  Demonstração das novidades do Java 8 em formato de palestra e codificação ao vivo.
+  Após observar a resistência dos programadores da empresa em fazer a migração e quais dificuldades tinham, resolvi montar essa palestra com um exemplo fácil de entender e explicando como isso facilitaria nosso trabalho.
+  https://github.com/thiagoematos/pokemon-java8
 ________________________________________________________________________________
 FORMAÇÃO
 
